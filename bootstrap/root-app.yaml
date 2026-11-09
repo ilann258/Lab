@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/ilann258/GitOps-Lab.git
+    repoURL: https://github.com/ilann258/Lab.git
     targetRevision: main
     path: applications
 
